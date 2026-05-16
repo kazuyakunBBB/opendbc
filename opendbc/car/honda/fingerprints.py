@@ -20,12 +20,15 @@ FW_VERSIONS = {
     ],
     (Ecu.srs, 0x18da53f1, None): [
       b'77959-TTA-N930\x00\x00',
+      b'77959-TTA-J440\x00\x00',
     ],
     (Ecu.fwdRadar, 0x18dab0f1, None): [
       b'36802-TTA-J070\x00\x00',
+      b'36802-TTA-J060\x00\x00',
     ],
     (Ecu.fwdCamera, 0x18dab5f1, None): [
       b'38897-TTA-J010\x00\x00',
+      b'36161-TTA-J060\x00\x00',
     ],
   },
   CAR.HONDA_ACCORD: {
